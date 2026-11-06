@@ -1,0 +1,5 @@
+ADICIONE AQUI, ANTES DE PUBLICAR:
+- turma-a.mp4 (vídeo principal desta turma)
+- trilha.wav (You Are My Spring - Yosep)
+
+Não crie arquivos vazios com essas extensões. Copie os arquivos reais para esta pasta.

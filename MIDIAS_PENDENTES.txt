@@ -1,0 +1,7 @@
+PENDÊNCIAS PARA O CONVITE FICAR COMPLETO
+
+1. Copie o vídeo principal desta turma para assets/turma-a.mp4
+2. Copie a trilha sonora enviada para assets/trilha.wav
+
+O opening.mp4, as capas 1200x630, o manual, o site e o editor já estão incluídos.
+Não publique antes de adicionar os dois arquivos de mídia pendentes.
